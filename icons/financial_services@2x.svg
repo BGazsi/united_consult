@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="58px" height="38px" viewBox="0 0 58 38" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4.3 (16618) - http://www.bohemiancoding.com/sketch -->
+    <title>Card 2@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="V1_2-Copy" sketch:type="MSArtboardGroup" transform="translate(-442.000000, -1736.000000)">
+            <g id="Industries" sketch:type="MSLayerGroup" transform="translate(252.000000, 1595.000000)">
+                <g id="Finance" transform="translate(190.000000, 141.000000)" sketch:type="MSShapeGroup">
+                    <g id="Card-2" transform="translate(0.000000, 0.253012)">
+                        <rect id="Rectangle-29" stroke="#FFFFFF" stroke-width="2" x="0" y="0" width="57.2972973" height="37.1084337" rx="5"></rect>
+                        <rect id="Shape-2" fill="#FFFFFF" x="1.36422136" y="8.42461739" width="54.3414843" height="4.24096386"></rect>
+                        <rect id="Shape-3" fill="#FFFFFF" x="7.10531961" y="19.2963855" width="9.54954955" height="8.9060241" rx="2"></rect>
+                        <rect id="Shape-4" fill="#FFFFFF" x="25.5791506" y="25.2072289" width="18.473831" height="2.59759036" rx="1"></rect>
+                        <rect id="Shape-5" fill="#FFFFFF" x="25.5791506" y="20.0120482" width="11.3685114" height="2.38554217" rx="1"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

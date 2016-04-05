@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="141px" height="141px" viewBox="0 0 141 141" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4.3 (16618) - http://www.bohemiancoding.com/sketch -->
+    <title>Training icon@1x</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="-1.11022302e-14%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#97D568" offset="0%"></stop>
+            <stop stop-color="#78BB45" offset="100%"></stop>
+        </linearGradient>
+        <radialGradient cx="47.1359611%" cy="112.477249%" fx="47.1359611%" fy="112.477249%" r="100%" id="radialGradient-2">
+            <stop stop-color="#BCBCBC" stop-opacity="0.65" offset="0%"></stop>
+            <stop stop-color="#B6B6B6" stop-opacity="0.57937887" offset="44.9918343%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.5" offset="100%"></stop>
+        </radialGradient>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-3">
+            <feMorphology radius="1" in="SourceAlpha" operator="dilate" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="2" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="0" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.330688608   0 0 0 0 0.539354804   0 0 0 0 0.151831868  0 0 0 0.7 0" in="shadowBlurOuter1" type="matrix" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <rect id="path-4" x="1.70530257e-13" y="1.54543045e-13" width="129.121622" height="129.121622" rx="12"></rect>
+    </defs>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="V1_2-Copy" sketch:type="MSArtboardGroup" transform="translate(-889.000000, -2856.000000)">
+            <g id="Our-services" sketch:type="MSLayerGroup" transform="translate(0.000000, 2621.000000)">
+                <g id="Customization" transform="translate(732.000000, 234.000000)">
+                    <g id="Training-icon" transform="translate(228.000000, 71.000000) rotate(5.000000) translate(-228.000000, -71.000000) translate(163.000000, 6.000000)">
+                        <g id="Rectangle-34" filter="url(#filter-3)">
+                            <use fill="url(#linearGradient-1)" sketch:type="MSShapeGroup" xlink:href="#path-4"></use>
+                            <use fill-opacity="0.300000012" fill="url(#radialGradient-2)" xlink:href="#path-4"></use>
+                        </g>
+                        <path d="M49.3970585,47.1985635 L49.3970585,49.9068968 L35.8553918,49.9068968 L35.8553918,47.1985635 L49.3970585,47.1985635 L49.3970585,47.1985635 Z M52.1053918,44.4902301 L49.3970585,44.4902301 L35.8553918,44.4902301 L33.1470585,44.4902301 L33.1470585,47.1985635 L33.1470585,49.9068968 L33.1470585,52.6152301 L35.8553918,52.6152301 L49.3970585,52.6152301 L52.1053918,52.6152301 L52.1053918,49.9068968 L52.1053918,47.1985635 L52.1053918,44.4902301 L52.1053918,44.4902301 Z M72.4178918,82.4068968 L72.4178918,85.1152301 L58.8762252,85.1152301 L58.8762252,82.4068968 L72.4178918,82.4068968 L72.4178918,82.4068968 Z M75.1262252,79.6985635 L72.4178918,79.6985635 L58.8762252,79.6985635 L56.1678918,79.6985635 L56.1678918,82.4068968 L56.1678918,85.1152301 L56.1678918,87.8235635 L58.8762252,87.8235635 L72.4178918,87.8235635 L75.1262252,87.8235635 L75.1262252,85.1152301 L75.1262252,82.4068968 L75.1262252,79.6985635 L75.1262252,79.6985635 Z M95.4387252,64.8027301 L95.4387252,67.5110635 L81.8970585,67.5110635 L81.8970585,64.8027301 L95.4387252,64.8027301 L95.4387252,64.8027301 Z M98.1470585,62.0943968 L95.4387252,62.0943968 L81.8970585,62.0943968 L79.1887252,62.0943968 L79.1887252,64.8027301 L79.1887252,67.5110635 L79.1887252,70.2193968 L81.8970585,70.2193968 L95.4387252,70.2193968 L98.1470585,70.2193968 L98.1470585,67.5110635 L98.1470585,64.8027301 L98.1470585,62.0943968 L98.1470585,62.0943968 Z M41.2720585,98.6568968 L43.9803918,98.6568968 L43.9803918,55.3235635 L41.2720585,55.3235635 L41.2720585,98.6568968 L41.2720585,98.6568968 Z M41.2720585,33.6568968 L41.2720585,41.7818968 L43.9803918,41.7818968 L43.9803918,33.6568968 L41.2720585,33.6568968 L41.2720585,33.6568968 Z M64.2928918,98.6568968 L67.0012252,98.6568968 L67.0012252,90.5318968 L64.2928918,90.5318968 L64.2928918,98.6568968 L64.2928918,98.6568968 Z M64.2928918,33.6568968 L64.2928918,76.9902301 L67.0012252,76.9902301 L67.0012252,33.6568968 L64.2928918,33.6568968 L64.2928918,33.6568968 Z M87.3137252,98.6568968 L90.0220585,98.6568968 L90.0220585,72.9277301 L87.3137252,72.9277301 L87.3137252,98.6568968 L87.3137252,98.6568968 Z M87.3137252,33.6568968 L87.3137252,59.3860635 L90.0220585,59.3860635 L90.0220585,33.6568968 L87.3137252,33.6568968 L87.3137252,33.6568968 Z" id="Shape" fill="#FFFFFF" sketch:type="MSShapeGroup" transform="translate(65.647059, 66.156897) rotate(-5.000000) translate(-65.647059, -66.156897) "></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
